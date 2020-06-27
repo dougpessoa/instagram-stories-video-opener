@@ -40,7 +40,7 @@ No Instagram...
 Esta extensão não está disponível na loja de extensões do Google ou na Mozilla. 
 
 ## Agradecimentos
-[Camilla Andrezza](https://www.instagram.com/camilaandrezza/)
+[Camila Andrezza](https://www.instagram.com/camilaandrezza/)
 
 
 ## Me mande uma mensagem
