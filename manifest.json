@@ -5,7 +5,7 @@
   "version": "0.1",
   "content_scripts": [
     {
-      "matches": ["https://www.instagram.com/*"],
+      "matches": ["https://www.instagram.com/stories/*"],
       "css": ["style.css"],
       "js": ["content.js"]
     }
