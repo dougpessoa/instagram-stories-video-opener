@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Instagram Stories Video Opener",
+  "description": "Extensão para o Google Chrome que localiza a URL do vídeo do Story do Instagram e disponibiliza um botão para abrir o vídeo em uma nova aba.",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "css": ["style.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "images/icon.png"
+  }
+}
