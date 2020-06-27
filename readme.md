@@ -2,7 +2,7 @@
 
   
 
-![](https://lh3.google.com/u/0/d/1t2ydLjHLo8Gc0MLkVsTkx9GAyyZgj9QE=w2560-h580-iv1)
+![](/images/index.jpg)
 
 ## Sobre esse projeto
 É um projeto simples para estudo, para entender como uma extensão de navegador funciona. 
