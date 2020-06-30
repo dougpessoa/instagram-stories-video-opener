@@ -20,7 +20,7 @@
 </p>
 
 ## Sobre esse projeto
-É um projeto simples para estudo, para entender como uma extensão de navegador funciona. 
+É um projeto simples para estudo, para entender como uma extensão de navegador trabalha. A sua funcionalidade é bem simples: Abrir o vídeo original do Story do Instagram.
 
 ## Navegadores
 Os navegadores testados para essa extensão foram: 
