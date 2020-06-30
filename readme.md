@@ -1,8 +1,23 @@
-# Instagram Stories Video Opener
+<h1 align='center'>Instagram Stories Video Opener</h1>
 
-  
+
+<span align='center'>
 
 ![](/images/index.jpg)
+
+</span>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/douglaspessoa/" target="_blank">
+    <img src="https://img.shields.io/badge/desenvolvedor-Douglas%20Pessoa-brightgreen" alt="Desenvolvedor Douglas Pessoa" />
+  </a>
+
+  <img src="https://img.shields.io/badge/linguagem-JavaScript-F7DF1E" alt="linguagem javascript" />
+  <img src="https://img.shields.io/badge/navegador-Google%20Chrome-67AA4B" alt="navegador google chrome" />
+  <img src="https://img.shields.io/badge/navegador-Mozilla%20Firefox-FF483A" alt="navegador mozilla firefox" />
+
+
+</p>
 
 ## Sobre esse projeto
 É um projeto simples para estudo, para entender como uma extensão de navegador funciona. 
@@ -46,5 +61,3 @@ Esta extensão não está disponível na loja de extensões do Google ou na Mozi
 ## Me mande uma mensagem
 [Likedin](https://www.linkedin.com/in/douglaspessoa/)
 [Instagram](https://www.instagram.com/dougpeople/)
-
-**Obrigado!**
